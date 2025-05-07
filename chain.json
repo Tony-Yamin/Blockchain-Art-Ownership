@@ -1,0 +1,20 @@
+[
+  {
+    "header": {
+      "block_num": 0,
+      "prev_block_hash": "0000000000000000000000000000000000000000000000000000000000000000",
+      "merkle_root_hash": "106ecfbb869de96b16c247676d3848cf24626bfada9e731664121aa7d099ead2",
+      "timestamp_ms": 1746480304293,
+      "difficulty": 1,
+      "nonce": 0
+    },
+    "transactions": [
+      {
+        "sender": "MINT",
+        "recipient": "SERVER",
+        "artwork_id": "GENESIS_ART",
+        "signature": "6c4c58997f45530ed73f0de3d0cf08937b275a23f77a46675b159076f1941d13"
+      }
+    ]
+  }
+]
